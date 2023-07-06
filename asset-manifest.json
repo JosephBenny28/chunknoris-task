@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chunknoris-task/static/css/main.58561f47.css",
+    "main.js": "/chunknoris-task/static/js/main.2f5eb3cd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/chunknoris-task/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/chunknoris-task/index.html",
+    "main.58561f47.css.map": "/chunknoris-task/static/css/main.58561f47.css.map",
+    "main.2f5eb3cd.js.map": "/chunknoris-task/static/js/main.2f5eb3cd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/chunknoris-task/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58561f47.css",
+    "static/js/main.2f5eb3cd.js"
+  ]
+}
